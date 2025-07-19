@@ -11,4 +11,5 @@ Its robust design, coupled with the use of secure cloud-based data storage and p
 This system represents a transformative step toward smarter and more sustainable farm management.
 
 Here's the Sample Output!!
-![output-2](https://github.com/user-attachments/assets/d6147a99-8904-42c1-990d-ca377984896e)
+
+![Output-1](https://github.com/user-attachments/assets/81177847-7f5e-40dc-94d3-d2d005b5e6fd)
