@@ -1,4 +1,4 @@
-**AI Powered Farm Security System for detecting and deterring Trespassers**
+**AI Powered Farm Security System for detecting and deterring Trespassers**\n
 This project aims to develop an advanced system that utilizes deep learning and computer vision to detect birds and animals near farms or prawn rivers, providing an effective and eco-friendly solution to protect crops and resources.
 The system incorporates a camera to capture real-time video feeds, which are processed using state-of-the-art object detection algorithms such as YOLO (You Only Look Once) or Faster R-CNN. 
 These algorithms are known for their high accuracy and speed in detecting objects within video frames, making them suitable for real-time applications.
